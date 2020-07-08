@@ -1,1 +1,1 @@
-Blog application created i Laravel 6
+Blog application created in Laravel 6
